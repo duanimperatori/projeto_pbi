@@ -1,0 +1,3 @@
+algoritmo para padroonizar descricao de cidades
+
+colocar maiuscula nas categorias de produto e tirar o _ por espaço
